@@ -1,0 +1,8 @@
+2021-05-07 20:28:43,072  INFO [main] TestBase:17 - Testcase start with namelogin
+2021-05-07 20:28:43,079  INFO [main] TestBase:20 - initializing browser
+2021-05-07 20:28:43,079  WARN [main] TestBase:21 - chromedriver file should present at the location
+2021-05-07 20:28:45,017  INFO [main] TestBase:29 - chrome browser opened
+2021-05-07 20:28:49,320  INFO [main] TestBase:32 - JBK offline Application launched
+2021-05-07 20:28:49,320  INFO [main] LoginTest:19 - login to the application
+2021-05-07 20:28:50,229  INFO [main] LoginTest:23 - user successfully logged in to the application
+2021-05-07 20:28:50,240  INFO [main] TestBase:22 - Testcase passed with namelogin
